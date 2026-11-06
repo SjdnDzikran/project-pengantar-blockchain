@@ -62,7 +62,7 @@ Click the network dropdown (usually shows "Ethereum Mainnet")
 ### Option 1: Import Deployer Account (For Testing)
 1. Click account icon → "Import Account"
 2. Select "Private Key"
-3. Paste: `88f6ac39fb51eceb05c3f07b405bb4771eed80d6888bae2e3ced4d99fcac65de`
+3. Paste: `<YOUR_DEPLOYER_PRIVATE_KEY>`
 4. Click "Import"
 
 **⚠️ WARNING:** Only use this for testing! Never share or expose private keys for production wallets.

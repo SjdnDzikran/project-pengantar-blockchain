@@ -2,3 +2,6 @@ node_modules
 review-system-mvp/*/node_modules
 review-system-mvp/logs
 review-system-mvp/*/.env
+review-system-mvp/*/.env.*
+!review-system-mvp/*/.env.example
+!review-system-mvp/*/.env.*.example
